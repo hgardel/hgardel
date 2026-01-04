@@ -1,34 +1,41 @@
-## Olá! 👋 Bem-vindo ao meu perfil
-Me chamo **Huendell Gardel**, estudante de **Systems Analysis and Development** e **Cybersecurity** em Ponta Grossa, Paraná.
-Atualmente trabalhando como Assistente Administrativo e fazendo transição para a área de tecnologia.
+## Hello! 👋 Welcome to my profile
+
+I'm **Huendell Gardel**, a **Systems Analysis and Development** and **Information Security** student from Ponta Grossa, Paraná.
+
+Currently working as Administrative Assistant and transitioning to tech.
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo:
-- 🐍 **Python** - Automação e backend
-- 🗄️ **SQL** - Banco de dados
-- 🔐 **Cybersecurity** - Segurança da informação
-- 🌐 **JavaScript** - Desenvolvimento web
-  
+### 🛠️ Technologies I'm learning:
+
+- 🐍 **Python** - Automation and backend
+- 🗄️ **SQL** - Databases
+- 🔐 **Cybersecurity** - Information security
+- 🌐 **JavaScript** - Web development
+
 ---
 
-### 🚀 Projetos em destaque:
-- **[Gerador de Gatinhos](https://github.com/hgardel/gerador-de-gatinhos)** - Aplicação web com integração de APIs múltiplas, fallback inteligente e contador persistente
-  
+### 🚀 Featured projects:
+
+- **[Cat Image Generator](https://github.com/hgardel/gerador-de-gatinhos)** - Web application with multiple API integration, smart fallback, and persistent counter
+
 ---
 
-### 📚 Formação:
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - UniCesumar (2025-2028)
-- **Tecnólogo em Segurança da Informação** - Anhanguera (2025-2028)
-  
+### 📚 Education:
+
+- **Systems Analysis and Development** - UniCesumar (2025-2028)
+- **Information Security** - Anhanguera (2025-2028)
+
 ---
 
-### 📫 Como me encontrar:
+### 📫 How to reach me:
+
 - 💼 [LinkedIn](https://linkedin.com/in/huendell-gardel)
 - 📧 Email: huendell@protonmail.com
-- 🗣️ Idiomas: Português (nativo), English (profissional), Русский (básico)
-  
+- 🗣️ Languages: Portuguese (native), English (professional), Русский (basic)
+
 ---
 
-💡 **Sempre em busca de aprender algo novo e melhorar minhas habilidades!**
-⚡ Atualmente focado em construir projetos práticos para solidificar meu aprendizado
+💡 **Always looking to learn something new and improve my skills!**
+
+⚡ Currently focused on building practical projects to consolidate my learning
