@@ -1,41 +1,54 @@
-## Hello! 👋 Welcome to my profile
+# Olá, me chamo Huendell 👋
 
-I'm **Huendell Gardel**, a **Systems Analysis and Development** and **Information Security** student from Ponta Grossa, Paraná.
-
-Currently working as Administrative Assistant and transitioning to tech.
+Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas focado em automação com Python, redes, Linux e segurança da informação.
 
 ---
 
-### 🛠️ Technologies I'm learning:
+## O que estou fazendo
 
-- 🐍 **Python** - Automation and backend
-- 🗄️ **SQL** - Databases
-- 🔐 **Cybersecurity** - Information security
-- 🌐 **JavaScript** - Web development
-
----
-
-### 🚀 Featured projects:
-
-- **[Cat Image Generator](https://github.com/hgardel/gerador-de-gatinhos)** - Web application with multiple API integration, smart fallback, and persistent counter
+- 🎓 Cursando Cibersegurança e Análise e Desenvolvimento de Sistemas
+- 🔐 Estudando para o Google Cybersecurity Professional Certificate
+- 🛠️ Desenvolvendo projetos de automação com Python
 
 ---
 
-### 📚 Education:
+## Tecnologias
 
-- **Systems Analysis and Development** - UniCesumar (2025-2028)
-- **Information Security** - Anhanguera (2025-2028)
+### Segurança
+Wireshark · Nmap · John the Ripper · análise de tráfego · fundamentos de pentest
+
+### Redes
+TCP/IP · DNS · VPN · Firewall · Cisco Packet Tracer
+
+### Sistemas
+Linux (Ubuntu, Debian, Arch, Kali) · Windows · Terminal · PowerShell
+
+### Desenvolvimento & Automação
+Python · SQL · Git · GitHub · APIs REST · Playwright · Groq · LLaMA
 
 ---
 
-### 📫 How to reach me:
+## Projetos em destaque
 
-- 💼 [LinkedIn](https://linkedin.com/in/huendell-gardel)
-- 📧 Email: huendell@protonmail.com
-- 🗣️ Languages: Portuguese (native), English (professional), Русский (basic)
+### [linkedin-autobot](https://github.com/hgardel/linkedin-autobot)
+
+Bot de candidatura automática no LinkedIn com Playwright + LLM (Groq/LLaMA).  
+Responde formulários dinamicamente e filtra vagas por senioridade e localização.
+
+**Tecnologias:** Python · Playwright · APIs REST · LLMs
 
 ---
 
-💡 **Always looking to learn something new and improve my skills!**
+### [gerador-de-gatinhos](https://github.com/hgardel/gerador-de-gatinhos)
 
-⚡ Currently focused on building practical projects to consolidate my learning
+Web app com fallback inteligente entre múltiplas APIs utilizando `Promise.all()`.  
+Deploy realizado com GitHub Pages.
+
+**Tecnologias:** HTML · CSS · JavaScript · APIs REST
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/huendell-gardel)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:huendell@protonmail.com)
