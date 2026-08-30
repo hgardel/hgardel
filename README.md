@@ -1,6 +1,6 @@
 # Olá, me chamo Huendell 👋
 
-![pacman contribution graph](https://raw.githubusercontent.com/hgardel/hgardel/output/dist/pacman-contribution-graph-dark.svg)
+![pacman contribution graph](https://raw.githubusercontent.com/hgardel/hgardel/output/pacman-contribution-graph-dark.svg)
 
 Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas, atuando com suporte técnico e infraestrutura (CyberArk PAM, Red Hat Linux). Focado em automação com Python e segurança da informação.
 
