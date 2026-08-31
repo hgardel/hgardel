@@ -12,15 +12,15 @@ Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas, atuando c
 
 ## Projetos em destaque
 
+### [vagas-bot](https://github.com/hgardel/vagas-bot)
+Bot de automação que monitora vagas de cibersegurança no LinkedIn (via scraping do endpoint público, sem login), com lógica de priorização geográfica, filtro de senioridade e notificação em tempo real via Telegram API.
+Roda de forma autônoma via GitHub Actions (cron, 6x/dia), sem servidor.
+**Tecnologias:** Python · Scraping · GitHub Actions · Telegram Bot API
+
 ### [linkedin-autobot](https://github.com/hgardel/linkedin-autobot)
 Bot de candidatura automática no LinkedIn com Playwright + LLM (Groq/LLaMA).
 Responde formulários dinamicamente e filtra vagas por senioridade e localização.
 **Tecnologias:** Python · Playwright · APIs REST · LLMs
-
-### [gerador-de-gatinhos](https://github.com/hgardel/gerador-de-gatinhos)
-Web app com fallback inteligente entre múltiplas APIs utilizando `Promise.all()`.
-Deploy realizado com GitHub Pages.
-**Tecnologias:** HTML · CSS · JavaScript · APIs REST
 
 ---
 
