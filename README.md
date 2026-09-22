@@ -2,7 +2,7 @@
 
 ![pacman contribution graph](https://raw.githubusercontent.com/hgardel/hgardel/output/pacman-contribution-graph-dark.svg)
 
-Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas, atuando com suporte técnico e infraestrutura (CyberArk PAM, Red Hat Linux). Focado em automação com Python e segurança da informação.
+Cursando Tecnólogo em Cibersegurança e Bacharelado em Ciência da Computação, atuando com suporte técnico e infraestrutura (CyberArk PAM, Red Hat Linux). Focado em automação com Python e segurança da informação.
 
 - Cursando Cibersegurança (Anhanguera) e ADS (UniCesumar)
 - Praticando em TryHackMe, OverTheWire e PortSwigger Academy
