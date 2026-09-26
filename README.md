@@ -4,7 +4,6 @@
 
 Cursando Tecnólogo em Cibersegurança e Bacharelado em Ciência da Computação, atuando com suporte técnico e infraestrutura (CyberArk PAM, Red Hat Linux). Focado em automação com Python e segurança da informação.
 
-- Cursando Cibersegurança (Anhanguera) e ADS (UniCesumar)
 - Praticando em TryHackMe, OverTheWire e PortSwigger Academy
 - Interesse principal: Blue Team e perícia digital
 
