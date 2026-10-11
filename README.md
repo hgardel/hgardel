@@ -1,28 +1,20 @@
-# Olá, me chamo Huendell 👋
+# Huendell Gardel de Barros
 
-![pacman contribution graph](https://raw.githubusercontent.com/hgardel/hgardel/output/pacman-contribution-graph-dark.svg)
+Profissional de TI em transição para **SOC N1 / Blue Team**.
+CyberArk PAM · Red Hat Linux · Wazuh · Python
 
-Cursando Tecnólogo em Cibersegurança e Bacharelado em Ciência da Computação, atuando com suporte técnico e infraestrutura (CyberArk PAM, Red Hat Linux). Focado em automação com Python e segurança da informação.
+## Projetos
+- [Wazuh SOC Lab](https://hgardel.github.io/wazuh-lab.html): alerta SSH 5710, JSON, DQL, MITRE ATT&CK e CIS.
+- [CyberGuard](https://github.com/hgardel/cyberguard): analisador de logs em Python com pytest.
+- [vagas-bot](https://github.com/hgardel/vagas-bot): monitor de vagas de cybersecurity.
 
-- Praticando em TryHackMe, OverTheWire e PortSwigger Academy
-- Interesse principal: Blue Team e perícia digital
+## Certificados
+- CS50P (Harvard)
+- Google Cybersecurity Professional Certificate
+- Cisco Introduction to Cybersecurity
 
----
-
-## Projetos em destaque
-
-### [vagas-bot](https://github.com/hgardel/vagas-bot)
-Bot de automação que monitora vagas de cibersegurança no LinkedIn (via scraping do endpoint público, sem login), com lógica de priorização geográfica, filtro de senioridade e notificação em tempo real via Telegram API.
-Roda de forma autônoma via GitHub Actions (cron, 6x/dia), sem servidor.
-**Tecnologias:** Python · Scraping · GitHub Actions · Telegram Bot API
-
-### [linkedin-autobot](https://github.com/hgardel/linkedin-autobot)
-Bot de candidatura automática no LinkedIn com Playwright + LLM (Groq/LLaMA).
-Responde formulários dinamicamente e filtra vagas por senioridade e localização.
-**Tecnologias:** Python · Playwright · APIs REST · LLMs
-
----
+## Em andamento
+Home SOC Lab (Wazuh + Sysmon) · TryHackMe SOC Level 1
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/huendell-gardel)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:huendell@protonmail.com)
+[LinkedIn](linkedin.com/in/huendell-gardel) · [Portfólio](https://hgardel.github.io)
