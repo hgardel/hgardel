@@ -4,7 +4,7 @@ Profissional de TI em transição para **SOC N1 / Blue Team**. CyberArk PAM · R
 
 ## Projetos
 
-- [Wazuh SOC Lab](https://github.com/hgardel/wazuh-soc-lab): SSH e Windows, Sysmon, regra 60204, MITRE ATT&CK e CIS.
+- [Wazuh SOC Lab](https://github.com/hgardel/wazuh-soc-lab): SSH e Windows, Sysmon, regra 60204, MITRE ATT&CK, PowerShell codificado (regra 92057) e CIS.
 - [CyberGuard](https://github.com/hgardel/cyberguard): analisador de logs em Python com pytest.
 - [vagas-bot](https://github.com/hgardel/vagas-bot): monitor de vagas de cybersecurity.
 
