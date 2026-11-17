@@ -14,9 +14,14 @@ Profissional de TI em transição para **SOC N1 / Blue Team**. CyberArk PAM · R
 - Google Cybersecurity Professional Certificate
 - Cisco Junior Cybersecurity Analyst Career Path
 
+## Concluído
+
+- Wazuh SOC Lab, Fase 2: SSH, Windows e PowerShell codificado
+
 ## Em andamento
 
-Home SOC Lab (Wazuh + Sysmon) · Próximo: TryHackMe SOC Level 1
+- TryHackMe: path SOC Level 1
+- Wazuh SOC Lab: próxima fase com Microsoft Sentinel (planejada)
 
 ## Contato
 
