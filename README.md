@@ -21,6 +21,7 @@ Profissional de TI em transição para **SOC N1 / Blue Team**. CyberArk PAM · R
 ## Em andamento
 
 - TryHackMe: path SOC Level 1
+- CompTIA Security+ (SY0-701): preparação
 - Wazuh SOC Lab: próxima fase com Microsoft Sentinel (planejada)
 
 ## Contato
